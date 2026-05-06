@@ -4,7 +4,7 @@ import numpy as np
 
 st.set_page_config(layout="wide") #Mostra como pagina cheia
 ##título
-st.title('Aluforte veículos')
+st.title('Teste veículos')
 
 ##dados para o app
 DATE_COLUMN = 'date/time'
